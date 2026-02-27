@@ -66,7 +66,7 @@ file_28: karbytes_human_genome_fasta_part_1-main.zip // SHA-256: d7244d820a119b4
 
 file_29: the_big_green_thing_2025-main.zip // SHA-256: 06d428dc8abb478c4116ddd9583723c870409f0e234cef777a14abe57ca2d7ab
 
-file_30: KARLINA_OBJECT_extension_pack_59-main_27february2026.zip // SHA-256: 5069892b3f0eb3773545c172ee061e15f685f94c939268758246078a86260d22
+file_30: KARLINA_OBJECT_extension_pack_59-main_27february2026.zip // SHA-256: d54ae97ed463e0e8d1a17fbe8fc6afacb198cd34d0acf4d2da752dcbb5b85222
 
 file_31: karbytes_basement_46-main.zip // SHA-256: ab9122509176957938ff423f8591b4afa4c1555f449d5b832df8069b47c5e693
 
