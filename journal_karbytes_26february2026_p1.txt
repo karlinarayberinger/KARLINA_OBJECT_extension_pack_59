@@ -1,0 +1,27 @@
+/**
+ * file: journal_karbytes_26february2026_p1.txt
+ * type: plain-text
+ * date: 27_FEBRUARY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Add an asterisk hyperlink to the “unlisted” web page which hosts all karbytes-created GitHub-served web applications in the micro-directory web page pertaining to the karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_59.
+
+(Also add the respective HTML source code file link of that “unlisted” web page to that micro-directory web page).
+
+* * *
+
+Add an asterisk hyperlink to the “unlisted” web page which is a GitHub-served web application named FALLING_APPLES_GAME_TWO (and part of the aforementioned directory of all karbytes-created GitHub-hosted web applications).
+
+(Also add the respective HTML source code file link, the JavaScript source code file link, the CSS source code file link, and the sound effect file of that “unlisted” web page to the KARLINA_OBJECT_extension_pack_59 micro-directory web page).
+
+* * *
+
+It was brought to my attention that the micro-directory pertaining to the karbytes-created GitHub repository KARLINA_OBJECT_extension_pack_58 is also missing the HTML source code file for the aforementioned directory of all karbytes-created GitHub-hosted web applications. Hence, I have decided to add that missing file to that GitHub repository (even though I apparently closed that GitHub repository to future changes at approximately 2:53AM Pacific Standard Time on 23_FEBRUARY_2026).
+
+It can therefore be said that the version of karbytes named karbytes2026_0 is a “gimpy” (i.e. error-ridden) configuration while karbytes2026_1 is likely to be significantly less error-ridden (and ideally devoid of errors by the time karbytes2026_1 is finalized).
+
+(There are a few more “essential” HTML source code files that are missing from KARLINA_OBJECT_extension_pack_57, KARLINA_OBJECT_extension_pack_58, and KARLINA_OBJECT_extension_pack_59. By 11:59PM Pacific Standard Time on 27_FEBRUARY_2026, I expect to have all those missing files added to those GitHub repositories).
+
+(For the sake of keeping those “supposed to now be finalized” GitHub repositories from getting “contaminated” with file checksums, file sizes, and karbytes update logs from KARLINA_OBJECT_extension_pack_59, karbytes is only adding the missing files to those GitHub repositories and then declaring those repositories (and their respective micro-directories) as being finalized in the karbytes_for_life_blog_updates.txt file in KARLINA_OBJECT_extension_pack_59). 
